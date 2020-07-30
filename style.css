@@ -1,6 +1,6 @@
 main {
   padding-top: 7vh;
-  background-color: rgb(127, 250, 127);
+  background-color: rgb(145, 194, 105);
   color: white;
   min-height: 100vh;
 }
@@ -28,9 +28,9 @@ nav {
 
 #aboutMe {
   color: white;
-  background-color: rgb(127, 250, 127);
+  background-color: rgb(145, 194, 105);
   min-height: 44vh;
-  max-height: 96vh;
+  max-height: 100vh;
   flex-direction: column;
   text-align: center;
 }
@@ -44,6 +44,10 @@ nav {
   text-align: center;
 }
 
+#aboutText p{
+  margin: auto;
+}
+
 
 #projects {
   text-align: center;
@@ -52,7 +56,7 @@ nav {
   min-height: 44vh;
   max-height: 96vh;
   flex-direction: column;
-  background-color: rgb(127, 250, 127);;
+  background-color: rgb(145, 194, 105);;
 }
 
 .projectGif{
@@ -60,7 +64,7 @@ nav {
 }
 
 .projectFooter{
-  background-color: rgb(127, 250, 127);
+  background-color: rgb(145, 194, 105);
   margin-bottom: 2vh;
 }
 
