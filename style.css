@@ -77,6 +77,10 @@ nav {
   color: black
 }
 
+.modal a {
+  color:green;
+}
+
 .tooltip{
   background-color: black;
 }
